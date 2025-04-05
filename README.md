@@ -45,7 +45,7 @@ The complete pipeline includes the following stages:
 
 ## 🖼️ Project Architecture
 
-![Workflow Diagram](image.png)
+![Workflow Diagram](workflowDiagram.png)
 
 ---
 
